@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView_Result" type="id" />
+    <item type="id" name="button_0"/>
+    <item type="id" name="button_1"/>
+    <item type="id" name="button_2"/>
+    <item type="id" name="button_3"/>
+    <item type="id" name="button_4"/>
+    <item type="id" name="button_5"/>
+    <item type="id" name="button_6"/>
+    <item type="id" name="button_7"/>
+    <item type="id" name="button_8"/>
+    <item type="id" name="button_9"/>
+    <item type="id" name="button_clear"/>
+    <item type="id" name="button_decimal"/>
+    <item type="id" name="button_delete"/>
+    <item type="id" name="button_divide"/>
+    <item type="id" name="button_mark"/>
+    <item type="id" name="button_minus"/>
+    <item type="id" name="button_multiple"/>
+    <item type="id" name="button_plus"/>
+    <item type="id" name="button_result"/>
+    <item name="button_percent" type="id" />
+</resources>

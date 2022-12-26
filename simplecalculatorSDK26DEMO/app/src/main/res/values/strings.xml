@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">simple calculator SDK 26 DEMO</string>
+    <string name="hello_calculator_world">Hello Calculator World!</string>
+    <string name="error_01">Lỗi</string>
+</resources>
